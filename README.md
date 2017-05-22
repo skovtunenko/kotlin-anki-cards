@@ -2,11 +2,10 @@
 
 **This Kotlin ANKI deck dedicated to language reference from official <http://kotlinlang.org/docs/reference/> site.**  
 
-Currently contains **319** notes(cards) inside.
+Currently contains **326** notes(cards) inside.
 
 This deck covers almost all info from official docs except JS, Tooling and some FAQ sections.  
 Experimental features (like 'coroutines' in Kotlin 1.1) won't be added as well.  
-I won't add JS-related sections in future.  
 
 ## Version History:
 **v.1.0.0 (26.Feb.2017)**: finished converting Kotlin reference into Anki cards.  
@@ -17,10 +16,11 @@ I won't add JS-related sections in future.
 **v.1.1.3 (18.Mar.2017)**: Huge changes: migrated from 'image-based' content to `markdown-based` content. Decks fully synchronized with latest changes on Kotlin website.  
 **v.1.1.3 (22.Mar.2017)**: Improved CSS card styling, minor improvements.  
 **v.1.1.4 (19.Apr.2017)**: Synced with latest website updates.  
-**v.1.1.5 (25.Apr.2017):** Added new card about expression precedence (from Grammar section), synced with latest website updates.
-**v.1.1.6 (14.May.2017):** Synced with latest website changes, removed 1 card.
+**v.1.1.5 (25.Apr.2017):** Added new card about expression precedence (from Grammar section), synced with latest website updates.  
+**v.1.1.6 (14.May.2017):** Synced with latest website changes, removed 1 card.  
+**v.1.1.7 (22.May.2017):** Reworked 'Operator Overloading' section, synced with latest website changes, fixed typos.  
 
 ## Latest sync info with original `Kotlin website` repository:
 Original `Kotlin website` repo name: [JetBrains/kotlin-web-site](https://github.com/JetBrains/kotlin-web-site);  
-Latest sync date: **12.May.2017**;  
-Latest tracked commit: **9ccc75a62a086ee73b05bf5b964a9c67bf2860f5**  
+Latest sync date: **22.May.2017**;  
+Latest tracked commit: **1a9c103908ec1f006a191a5890d1be2fce9201a6**  
